@@ -1,0 +1,4 @@
+define('DB_NAME', 'database');
+define('DB_USER', 'dev');
+define('DB_PASSWORD', 'dev');
+define('DB_HOST', 'mysql:3306');
